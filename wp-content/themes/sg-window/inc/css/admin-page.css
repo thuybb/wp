@@ -1,0 +1,120 @@
+.main-image {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%;
+}
+.main-wrapper {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 auto;
+	max-width: 960px;
+}
+.sg-header {
+	background: #fff;
+	display: block;
+	font-size: 22px;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+.main-wrapper ul.sg-buttons {
+	background: #eee;
+	margin: 0;
+	padding: 10px;
+	text-align: center;
+}
+.main-wrapper ul.sg-buttons li {
+	display: inline-block;
+}
+.main-wrapper ul.sg-buttons li a {
+	border-radius: 1px;
+	background: linear-gradient(to left, rgba(0,0,0,.3), rgba(0,0,0,.0) 50%, rgba(0,0,0,.3)), linear-gradient(#d77d31, #fe8417, #d77d31);
+	background-size: 100% 100%, auto;
+	background-position: 50% 50%;
+	box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, #000 0 10px 15px -10px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 2px;
+	outline: none;
+	padding: 5px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #cc5500;
+	transition: 0.2s;
+}
+.main-wrapper ul.sg-buttons li.pro a {
+	color: rgb(245,245,245);
+	cursor: pointer;
+	border-radius: 3px;
+	background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+	box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+	text-shadow: 0 -1px rgba(0,0,0,.1);
+	text-decoration: none;
+	text-decoration: underline;
+}
+.main-wrapper ul.sg-buttons li a:active {
+	color: #ffdead;
+	box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, 0 10px 10px -9px #000;
+	top: 1px;
+}
+.main-wrapper ul.sg-buttons li a:hover {
+  background-size: 140% 100%, auto;
+}
+
+.info-wrapper {
+	background: #fff;
+
+	display: -webkit-box;     
+	display: -moz-box;        
+	display: -ms-flexbox;     
+	display: -webkit-flex;
+	display: flex;            
+	
+	-webkit-flex-flow: no-wrap;
+	-ms-flex-flow: no-wrap;
+	flex-flow: no-wrap;
+	padding: 20px;
+}
+
+.icon-image {
+	width: 30%;
+}
+.icon-image img {
+	max-width: 100%;
+}
+.info {
+	background: #fff;
+	border: 1px solid #fff;
+	border-radius: 20px;
+	color: #666;
+	margin: 0 0 0 20px;
+	padding: 0 20px;
+	width: 70%;
+}
+.info p {
+	color: green;
+	font-size: 16px;
+}
+.info ul {
+	list-style: disc;
+	padding: 0 40px;
+}
+.more-info {
+	background: #123;
+	padding: 20px;
+	text-align: center;
+}
+.more-info a {
+	border: 1px solid #fff;
+	color: #fff;
+	display: inline-block;
+	font-size: 16px;
+	margin: 10px;
+	padding: 20px;
+	text-decoration: none;
+}
+.more-info a:hover {
+	box-shadow: 0 0 4px 4px #fff;
+}

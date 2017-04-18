@@ -1,0 +1,38 @@
+
+.pho-premium-wrapper {background: #fff; width: 730px; margin: 0 auto; padding: 25px;}
+
+.premium-contnt {background: #eef1f5; padding: 10px;}
+
+.premium-contnt .pho-premium-head {display: inline-block; width: 24%; padding: 10px 0 0; text-align: center; vertical-align: top;}
+
+.pho-premium-head h1 {color: #eb4f62; font-size: 36px; font-weight: 900; margin: 0; text-transform: uppercase; line-height: 35px;}
+
+.pho-premium-head p {color: #333941; font-size: 16px; text-transform: uppercase; margin: 6px 0 40px;}
+
+.pho-premium-head p span {float: right; margin-right: 40px;}
+
+.pho-premium-head a.button {border: 0 none; border-radius: 4px; color: #fff; font-size: 14px; font-weight: 600; height: 38px; line-height: 38px;
+		text-align: center; width: 140px; margin-bottom: 10px; text-transform: uppercase;}
+		
+.pho-premium-head a.button:hover {color: #fff;}
+		
+.pho-premium-head a.button.btn-buy-now {background: #52bc52; border-bottom: 2px solid green;}
+
+.pho-premium-head a.button.live-demo {background: #333941;}
+
+.pho-contnt-table {width: 75%; display: inline-block; vertical-align: top;}
+
+.pho-contnt-table table {background: #fff;}
+
+.pho-contnt-table table thead th {background: #eb4f62;color: #fff;font-size: 14px;padding: 10px 20px;text-align: center;
+		text-transform: uppercase;}
+		
+.pho-contnt-table table thead th:first-child {background: none; color: #eb4f62; text-align: left;}
+
+.pho-contnt-table table tr.table-content td {border-top: 1px dashed #ccc; font-size: 14px; padding: 12px 15px; text-align: center;}
+
+.pho-contnt-table table tr.table-content td:first-child {text-align: left;}
+
+.pho-contnt-table table tr.table-content td .fa-check {font-size: 20px; color: #52bc52; font-weight: 900; }
+
+.pho-contnt-table table tr.table-content td .fa-times {font-size: 20px; color: #C4C4C4; font-weight: 900; }

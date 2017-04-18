@@ -1,0 +1,121 @@
+.widget-section {
+	background: #eee;
+	border: 3px double green;
+	display: none;
+	padding: 10px;
+}
+.widget-section.active-class {
+	display: block;
+}
+.section-toggle {
+	border-radius: 1px;
+	color: #fff;
+	display: inline-block;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 2px;
+	outline: none;
+	padding: 5px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #cc5500;
+	cursor: pointer;
+	border-radius: 3px;
+	background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+	box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+	text-shadow: 0 -1px rgba(0,0,0,.1);
+	text-decoration: underline;
+}
+
+
+.widget-main-section {
+	background: #eee;
+	border: 3px double orange;
+	display: none;
+	padding: 10px;
+}
+.widget-main-section.active-class {
+	display: block;
+}
+.section-main-toggle {
+	border-radius: 1px;
+	background: linear-gradient(to left, rgba(0,0,0,.3), rgba(0,0,0,.0) 50%, rgba(0,0,0,.3)), linear-gradient(#d77d31, #fe8417, #d77d31);
+	background-size: 100% 100%, auto;
+	background-position: 50% 50%;
+	box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, #000 0 10px 15px -10px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 2px;
+	outline: none;
+	padding: 5px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #cc5500;
+	transition: 0.2s;
+}
+
+[id^=accordion-section-] > h3:before,
+#accordion-panel-background > h3:before,
+#accordion-panel-custom_widget_colors > h3:before,
+#accordion-panel-widgets > h3:before,
+#accordion-panel-navigation > h3:before,
+#accordion-panel-other > h3:before,
+#accordion-panel-sidebars > h3:before,
+#accordion-panel-info > h3:before,
+#accordion-panel-layout > h3:before,
+#accordion-panel-mobile > h3:before,
+#accordion-panel-fonts > h3:before,
+#accordion-panel-custom_colors > h3:before {
+	display: inline-block;
+	-webkit-font-smoothing: antialiased;
+	font: normal 18px/1 'Genericons';
+	padding: 0 5px;
+	vertical-align: middle;	
+}
+
+#accordion-panel-custom_widget_colors > h3:before {
+	content: '\f506';
+}
+
+#accordion-panel-background > h3:before {
+	content: '\f408';
+}
+
+#accordion-panel-widgets > h3:before {
+	content: '\f507';
+}
+
+#accordion-panel-custom_colors > h3:before {
+	content: '\f506';
+}
+#accordion-panel-fonts  > h3:before {
+	content: '\f411';
+}
+#accordion-panel-mobile  > h3:before {
+	content: '\f454';
+}
+#accordion-panel-layout  > h3:before {
+	content: '\f505';
+}
+#accordion-panel-info > h3:before {
+	content: '\f457';
+}
+#accordion-panel-sidebars > h3:before {
+	content: '\f504';
+}
+#accordion-panel-other > h3:before {
+	content: '\f509';
+}
+#accordion-panel-navigation > h3:before {
+	content: '\f468';
+}
+[id^=accordion-section-] > h3:before {
+
+	content: '\f429';
+}
+#accordion-panel-nav_menus > h3:before {
+	content: '\f419';
+}

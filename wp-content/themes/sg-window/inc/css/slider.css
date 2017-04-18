@@ -1,0 +1,242 @@
+/* Slider */
+
+.sgwindow-slider-wrapper {
+	margin: 10px;
+	overflow: hidden;
+	position: relative;
+}
+
+.sgwindow-next-button,
+.sgwindow-prev-button {
+	display: inline-block;
+	position: absolute;
+	top: 40%;
+	z-index: 3;
+}
+
+.sgwindow-next-button {
+	right: 0;
+}
+
+.sgwindow-prev-button {
+	left: 0;
+}
+
+.sgwindow-next-button .genericon,
+.sgwindow-prev-button .genericon {
+	color: #000;
+	font-size: 24px;
+}
+
+.sgwindow-prev-button .genericon {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+}
+
+.sgwindow-next-button .genericon {
+    -ms-transform: rotate(-90deg); /* IE 9 */
+    -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+    transform: rotate(-90deg);
+}
+
+#page .sgwindow-slider-buttons li.current:before {
+	color: #000;
+}
+
+#page .sgwindow-slider-buttons li:hover,
+.sgwindow-next-button .genericon:hover,
+.sgwindow-prev-button .genericon:hover {
+	cursor: pointer;
+	color: blue;
+}
+
+#page .sgwindow-slider-buttons li:active,
+.sgwindow-next-button:active,
+.sgwindow-prev-button:active {
+	transform: scale( 1.1 );
+}
+
+.sgwindow-slider-buttons {
+	bottom: 10px;
+	display: none;
+	left: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+	z-index: 3;
+}
+
+.sgwindow-slider-buttons li {
+	display: inline-block;
+}
+
+#page .sgwindow-slider-buttons li:before {
+	color: #666;
+	content: '\f101';
+	font: normal 16px/1 'Genericons';
+}
+
+.sgwindow-slider-content {
+	position: relative;
+}
+
+.site .column .widget .sgwindow-slide {
+	padding: 10px;
+}
+
+.site .widget-area .widget .sgwindow-slide {
+	display: -webkit-box;  
+	display: -moz-box;        
+	display: -ms-flexbox;     
+	display: -webkit-flex;
+	display: flex;	
+	background: rgba(255, 255, 255, 1);
+	border-right: 1px solid #ccc;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	padding: 10px;
+	position: absolute;
+	bottom: 0;
+	top: 0;
+	z-index: 1;
+	display: none;
+}
+
+.site .widget-area .widget .sgwindow-slide:first-child,
+.site .widget-area .widget .sgwindow-slide:last-child,
+.site .widget-area .widget .sgwindow-slide:nth-child(2){
+	display: block;
+}
+
+.site .widget-area .widget .sgwindow-slider .sgwindow-slide:first-child {
+	left: 0;
+	right: 0;
+}
+
+
+.site .widget-area .widget .sgwindow-slider .sgwindow-slide:nth-child(2) {
+	left: 100%;
+	right: -100%;
+}
+
+.sgwindow-slider .sgwindow-slide:last-child {
+	left: -100%;
+	right: 100%;
+}
+
+.sgwindow-slide-content {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+.slider-text-wrap {
+	text-align: right;
+	position: relative;
+	z-index: 2;
+}
+
+.slider-text-wrap .slider-title {
+	color: #fff;
+	display: inline-block;
+	width: 71%;
+	font-size: 14px;
+	padding: 10px 20px 0 20px;
+	text-shadow: -1px 0 black, 0 1px black,
+	1px 0 black, 0 -1px black
+}
+
+.slider-descr {
+	color: #fff;
+	display: inline-block;
+	font-size: 12px;
+	opacity: 0;
+	padding: 0 20px;
+	-webkit-transition-duration: 1s; /* Safari */	
+	transition-duration: 1s;
+	width: 70%;
+}
+
+.sgwindow-slide-content:hover .slider-descr {
+	-webkit-transition-duration: 1s; /* Safari */	
+	transition-duration: 1s;
+	opacity: 1;	
+}
+
+.sgwindow-slide-content:hover .slider-descr {
+	background: rgba(0,0,0,.5);
+	padding: 10px;
+	-webkit-transition-duration: 1s; /* Safari */	
+	transition-duration: 1s;
+}
+
+.slider-image {
+	position: absolute;
+	left: 0;
+	right: 0;
+	z-index: 0;
+}
+
+.widget.sgwindow_slider {
+	margin: 0;
+	padding: 0;
+}
+
+.wide > .widget-area > .widget.sgwindow_slider  > .widget-title {
+	margin: 0;
+}
+
+#page .sgwindow-slider-wrapper {
+	margin: 0;
+}
+
+.slider-cat {
+	display: none;
+}
+
+@media screen and (min-width: 960px) {	
+	.slider-text-wrap .slider-title {
+		font-size: 32px;
+	}
+
+	.slider-descr {
+		font-size: 16px;
+	}
+	
+	.sgwindow-next-button .genericon,
+	.sgwindow-prev-button .genericon {
+		color: #000;
+		font-size: 34px;
+	}
+	
+	.sgwindow-slider-wrapper {
+		margin: 20px;
+	}
+	
+	.sgwindow-slider-buttons {
+		bottom: 20px;
+		display: block;
+	}
+	
+	.site .column .widget .sgwindow-slide {
+		padding: 20px;
+	}
+	
+	.slider-cat {
+		background: rgba(0,0,0, 0.8);
+		color: #eeee22;
+		display: block;
+		top: 0;
+		left: 0;
+		padding: 20px;
+		position: absolute;
+		text-shadow: -1px 0 black, 0 1px black,
+		1px 0 black, 0 -1px black
+	}
+}

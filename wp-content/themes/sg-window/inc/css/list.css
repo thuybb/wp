@@ -1,0 +1,25 @@
+.column-4 .element-list {
+   -webkit-column-count: 2;
+	-moz-column-count: 2;
+	column-count: 2;
+}
+
+@media screen and (min-width: 500px) {
+
+	.column-2 .element-list {
+	   -webkit-column-count: 2; 
+		-moz-column-count: 2;
+		column-count: 2;
+	}
+	.column-3 .element-list {
+	   -webkit-column-count: 3;
+		-moz-column-count: 3; 
+		column-count: 3;
+	}
+	.column-4 .element-list {
+	   -webkit-column-count: 4;
+		-moz-column-count: 4;
+		column-count: 4;
+	}
+	
+}

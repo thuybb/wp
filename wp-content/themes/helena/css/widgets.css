@@ -1,0 +1,14 @@
+/*
+Used to style the Elements in widgets
+*/
+
+.ct-image-box, .ct-box {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 0 10px 10px;
+}
+
+.ct-textarea {
+	height: 150px;
+	width:100%;
+}

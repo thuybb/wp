@@ -1,0 +1,31 @@
+.site .widget.sgwindow_page {
+	color: #666;
+	font-size: 18px;
+	background: rgba(255, 255, 255, 0.9);
+}
+
+.site .wide .widget.sgwindow_page .widgettitle,
+.site .wide .widget.sgwindow_page .widget-title {
+	margin: 0;
+}
+
+.site .sidebar-top-full .widget-area .widget .widget-page-wrap {
+	margin: 0 20px;
+	max-width: 100%;
+}
+
+.wide .widget-area .widget .main-wrapper,
+.wide .widget-area .widget .main-wrapper.no-sidebar {
+	margin: 0 auto;
+}	
+.wide .widget-area .widget .main-wrapper {
+	padding: 20px 0 0 0;
+}
+
+.content-container > div {
+	padding: 20px;
+}
+
+.widget .widget .content-container > div {
+	padding: 20px 0;
+}

@@ -1,0 +1,54 @@
+== Changelog ==
+
+= 1.3.2 =
+* Added: Transient flush on save post
+* Bug Fixed: Widget layout issue in footer widget area
+
+= 1.3.1 =
+* Big Fixed: Excerpt length and text issue
+
+= 1.3 =
+* Added: Option to Display all Categories in Customizer
+* Bug Fixed: Position of Footer Widget Area
+* Code Optimization
+* Updated: Theme description and screenshot
+
+= 1.2.3 =
+* Bug Fixed: Undefined index warning when saving metabox options
+* Bug Fixed: Removed unnecessary layouts from featured content
+* Bug Fixed: Removed unnecessary image sizes from single page/post (Featured Image) options
+
+= 1.2.2 =
+* Bug Fixed: Featured content default number
+* Bug Fixed: Featured content wrapper conditions mismatch
+* Updated: Default Page/Post Featured Image Size to Slider size
+* Updated: Remove unnecessary image options in Page/Post Featured Image Size and Single Page/Post Image
+* Updated: Remove Unnecessary text Permalink to in titles of featured content, slider and other sections
+
+= 1.2.1 =
+* Bug Fixed: Function_exists check had non-existent function check in feature-content.php
+* Code Optimization
+* Updated: Theme tags in styles.css
+
+= 1.2 =
+* Updated: Custom CSS to Additional CSS( Core Support ) for WP version 4.7
+
+= 1.1.1 =
+* Bug Fixed: post-thumbnails image used in header-highlight-content
+* Header Highlight Content number step changed to 1
+
+= 1.1 =
+* Removed: update_option for thumbnail image size and added new image sizes as helena-small
+
+= 1.0 =
+* Added Featured Slider
+* Added Featured Content
+* Added Header Highlight Content
+* Added Portfolio
+* Added Logo Slider
+* Added Header Image
+* Added Promotion Headline
+
+
+= 0.1 =
+* Initial release

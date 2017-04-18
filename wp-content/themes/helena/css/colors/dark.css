@@ -1,0 +1,135 @@
+/*
+	A dark color scheme for Helena
+*/
+
+body {
+	background-color: #262626;
+}
+
+body,
+button,
+input,
+select,
+textarea,
+a:hover,
+a:focus,
+a:active,
+#main .entry-meta,
+#main .entry-meta a,
+.entry-footer,
+.entry-footer a,
+.sidebar-primary .widget,
+.page-links .page-links-title,
+.navigation .wp-pagenavi span.pages,
+.site-footer,
+.site-footer .site-description,
+#promotion-message .wrapper,
+#promotion-message a:hover,
+#promotion-message a:focus,
+#header-highlights-content .wrapper,
+#header-highlights-content a:hover,
+#header-highlights-content a:focus,
+#hero-section .wrapper,
+#hero-section a:hover,
+#hero-section a:focus,
+#featured-content .wrapper,
+#featured-content .hentry,
+#featured-heading-wrap,
+#featured-content .wrapper a:hover,
+#featured-content .wrapper a:focus {
+    color: #e5e5e5;
+}
+
+#hero-section .wrapper,
+#header-highlights-content .wrapper,
+#portfolio .wrapper,
+#featured-content .wrapper,
+#featured-content .hentry,
+#promotion-message .wrapper,
+#logo-slider .wrapper,
+.site-content .wrapper {
+    background-color: #1a1a1a;
+}
+
+.grid-item:nth-child(2n+0) {
+    background-color: #111;
+}
+
+.page-title,
+.entry-title,
+.entry-title a,
+.entry-subtitle,
+.entry-subtitle a,
+.section-title,
+.section-title a,
+.sidebar-primary .widget-title,
+.sidebar-primary .widget-title a,
+.sidebar-primary .widget a,
+.sidebar-primary .widget .entry-meta a,
+.site-footer a,
+#featured-content .entry-title,
+#featured-content .entry-title a {
+    color: #fff;
+}
+
+.social-menu ul a,
+.sidebar-primary .social-menu ul a {
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+}
+
+#infinite-handle span,
+.nav-previous a,
+.nav-next a,
+.pagination .page-numbers,
+.navigation .wp-pagenavi a,
+.navigation .wp-pagenavi span,
+.page-links a span {
+    background-color: #000;
+    color: #fff;
+}
+
+.site .more-button a,
+.reply a {
+	border-color: #e5e5e5;
+	color: #e5e5e5;
+}
+
+#scrollup {
+    border-color: #e5e5e5;
+    color: #e5e5e5;
+}
+
+#header-highlights-content .hentry {
+    background-color: #111;
+}
+
+#featured-content .entry-title a:hover,
+#featured-content .entry-title a:focus {
+	color: #e8554e;
+}
+
+@media screen and (min-width: 910px) {
+    /* Header Highlight Title Color */
+    #header-highlights-content .small-featured-image .entry-title,
+    #header-highlights-content .small-featured-image .entry-title a {
+        color: #fff;
+    }
+
+    /* Header Highlight Title Hover Color */
+    #header-highlights-content .small-featured-image .entry-title a:hover,
+    #header-highlights-content .small-featured-image .entry-title a:focus {
+        color: #e8554e;
+    }
+
+    /* Header Highlight Meta Color */
+    #header-highlights-content .small-featured-image .entry-meta a {
+        color: #e5e5e5;
+    }
+
+    /* Header Highlight Meta hover Color */
+    #header-highlights-content .small-featured-image .entry-meta a:hover,
+    #header-highlights-content .small-featured-image .entry-meta a:focus {
+        color: #e8554e;
+    }
+}

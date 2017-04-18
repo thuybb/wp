@@ -1,0 +1,19 @@
+#wp-admin-bar-sgwindow-help a {
+	color: rgb(245,245,245);
+	cursor: pointer;
+	border-radius: 3px;
+	background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+	box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+	text-shadow: 0 -1px rgba(0,0,0,.1);
+	text-decoration: none;
+}
+#wp-admin-bar-sgwindow-help a:active,
+#wp-admin-bar-sgwindow-help a:hover {
+	color: rgb(245,245,245) !important;
+	cursor: pointer;
+	border-radius: 3px;
+	background: #0c9c0d linear-gradient(#91e18d, #109c0d) !important;
+	box-shadow: inset #62de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+	text-shadow: 0 -1px rgba(0,0,0,.1);
+	text-decoration: underline;
+}

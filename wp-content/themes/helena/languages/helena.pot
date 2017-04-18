@@ -1,0 +1,1404 @@
+# Copyright (C) 2017 Catch Themes
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Helena 1.1.1\n"
+"Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
+"POT-Creation-Date: 2017-03-27 21:21+0545\n"
+"PO-Revision-Date: 2016-12-07 17:08-0500\n"
+"Last-Translator: Catch Themes <info@catchthemes.com>\n"
+"Language-Team: Catch Themes <info@catchthemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: \n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:37
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:54
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:53 ../comments.php:75
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:56 ../comments.php:78
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:57 ../comments.php:79
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:91
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:66 ../inc/structure.php:167
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:67
+msgid "Social Menu"
+msgstr ""
+
+#: ../functions.php:208
+msgid "expand child menu"
+msgstr ""
+
+#: ../functions.php:209
+msgid "collapse child menu"
+msgstr ""
+
+#: ../functions.php:212 ../inc/widgets/featured-posts.php:125
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:213
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:214
+msgid "URL"
+msgstr ""
+
+#: ../functions.php:215
+msgid "Comment"
+msgstr ""
+
+#: ../functions.php:241
+msgctxt "Rubik: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:247
+msgctxt "Playfair Display font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../inc/breadcrumb.php:45
+msgid "Home"
+msgstr ""
+
+#: ../inc/breadcrumb.php:46
+#, php-format
+msgid "%1$s Archive for %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:47
+#, php-format
+msgid "%1$sSearch results for: %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:48
+#, php-format
+msgid "%1$sPosts tagged %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:49
+#, php-format
+msgid "%1$sView all posts by %2$s"
+msgstr ""
+
+#: ../inc/breadcrumb.php:50
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumb.php:191
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/customizer-includes/custom-controls.php:24
+#: ../inc/widgets/featured-posts.php:83
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/customizer-includes/custom-controls.php:36 ../inc/extras.php:482
+msgid ""
+"Hold down the Ctrl (windows) / Command (Mac) button to select multiple "
+"options."
+msgstr ""
+
+#: ../inc/customizer-includes/custom-controls.php:59
+msgid "Theme Instructions"
+msgstr ""
+
+#: ../inc/customizer-includes/custom-controls.php:63
+msgid "Support"
+msgstr ""
+
+#: ../inc/customizer-includes/custom-controls.php:67
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:32
+msgid "Check to disable Tagline"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:46
+msgid "Check to disable Tagline in footer"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:60
+msgid "Check to move Site Title and Tagline before logo"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:78
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:111
+msgid ""
+"Caution: Reset all settings to default. Refresh the page after save to view "
+"full effects."
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:113
+msgid "Reset all settings"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:124
+msgid "Check to reset all settings to default"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:133
+#: ../inc/customizer-includes/customizer.php:144
+msgid "Important Links"
+msgstr ""
+
+#: ../inc/customizer-includes/customizer.php:171
+msgid "Refresh the customizer page after saving to view reset effects"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:12
+#: ../inc/featured-content.php:50
+msgid "Featured Content"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:23
+msgid "Enable Featured Content on"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:38
+msgid "Select Featured Content Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:52
+msgid "Check to Move above Footer"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:66
+msgid "Check to Enable Slider"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:81
+#: ../inc/customizer-includes/header-highlight-content.php:39
+#: ../inc/customizer-includes/hero-content.php:38
+msgid "Select Content Type"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:95
+#: ../inc/customizer-includes/header-highlight-content.php:53
+#: ../inc/customizer-includes/portfolio.php:52
+msgid "Leave field empty if you want to remove Headline"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:96
+msgid "Headline for Featured Content"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:111
+#: ../inc/customizer-includes/header-highlight-content.php:69
+#: ../inc/customizer-includes/portfolio.php:68
+msgid "Leave field empty if you want to remove Sub-headline"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:112
+msgid "Sub-headline for Featured Content"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:127
+msgid ""
+"Save and refresh the page if No. of Featured Content is changed (Max no of "
+"Featured Content is 20)"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:134
+msgid "No of Featured Content"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:148
+#: ../inc/customizer-includes/hero-content.php:73
+msgid "Check to Enable Title"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:163
+#: ../inc/customizer-includes/header-highlight-content.php:87
+#: ../inc/customizer-includes/hero-content.php:88
+#: ../inc/customizer-includes/promotion-headline.php:51
+msgid "Display Content"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-content.php:178
+#: ../inc/customizer-includes/featured-slider.php:142
+#: ../inc/customizer-includes/portfolio.php:122
+msgid "Featured Page"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:13
+msgid "Featured Slider"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:24
+msgid "Enable Slider on"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:39
+msgid "Transition Effect"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:53
+#: ../inc/customizer-includes/featured-slider.php:70
+#: ../inc/customizer-includes/logo-slider.php:53
+#: ../inc/customizer-includes/logo-slider.php:70
+msgid "seconds(s)"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:57
+#: ../inc/customizer-includes/logo-slider.php:57
+msgid "Transition Delay"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:74
+#: ../inc/customizer-includes/logo-slider.php:74
+msgid "Transition Length"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:88
+msgid ""
+"True: Fixes the height overlap issue. Slideshow will start as soon as two "
+"slider are available. Slide may display in random, as image is fetch. Wait: "
+"Fixes the height overlap issue. Slideshow will start only after all images "
+"are available."
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:90
+msgid "Image Loader"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:105
+msgid "Select Slider Type"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:119
+#: ../inc/customizer-includes/logo-slider.php:101
+msgid ""
+"Save and refresh the page if No. of Slides is changed (Max no of slides is "
+"20)"
+msgstr ""
+
+#: ../inc/customizer-includes/featured-slider.php:126
+msgid "No of Slides"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:12
+msgid "Header Highlight Content"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:23
+msgid "Enable Header Highlight Content on"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:54
+msgid "Headline for Header Highlight Content"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:70
+msgid "Sub-headline for Header Highlight Content"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:102
+msgid "Save and refresh the page if No. of Header Highlight Content is changed"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:108
+msgid "No of Header Highlight Content"
+msgstr ""
+
+#: ../inc/customizer-includes/header-highlight-content.php:128
+#: ../inc/customizer-includes/hero-content.php:104
+#: ../inc/customizer-includes/logo-slider.php:146 ../inc/template-tags.php:49
+#: ../template-parts/content-hero.php:35 ../template-parts/content-page.php:35
+#: ../template-parts/content-single.php:38 ../template-parts/content.php:40
+msgid "Page"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:19
+msgid "Enable Featured Header Image on "
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:33
+msgid "Page/Post Featured Image Size"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:46
+#: ../inc/customizer-includes/logo-slider.php:88
+#: ../inc/widgets/featured-posts.php:74 ../inc/widgets/social-icons.php:97
+#: ../inc/widgets/tag-cloud.php:63
+msgid "Title"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:59
+msgid "Content"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:72
+msgid "Button Text"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:85
+msgid "Link"
+msgstr ""
+
+#: ../inc/customizer-includes/header-options.php:97
+msgid "Check to Open Link in New Window/Tab"
+msgstr ""
+
+#: ../inc/customizer-includes/hero-content.php:12
+msgid "Hero Content"
+msgstr ""
+
+#: ../inc/customizer-includes/hero-content.php:23
+msgid "Enable Hero Content on"
+msgstr ""
+
+#: ../inc/customizer-includes/hero-content.php:52
+msgid ""
+"Save and refresh the page if No. of Hero Content is changed (Max no of Hero "
+"Content is 20)"
+msgstr ""
+
+#: ../inc/customizer-includes/hero-content.php:59
+msgid "No of Hero Content"
+msgstr ""
+
+#: ../inc/customizer-includes/logo-slider.php:13
+msgid "Logo Slider"
+msgstr ""
+
+#: ../inc/customizer-includes/logo-slider.php:24
+msgid "Enable Logo Slider on"
+msgstr ""
+
+#: ../inc/customizer-includes/logo-slider.php:39
+msgid "Logo Slider Type"
+msgstr ""
+
+#: ../inc/customizer-includes/logo-slider.php:108
+msgid "No of Items"
+msgstr ""
+
+#: ../inc/customizer-includes/logo-slider.php:129
+msgid "No of visible items"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:12 ../inc/portfolio.php:48
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:23
+msgid "Enable Portfolio on"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:38
+msgid "Select Portfolio Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:53
+msgid "Headline for Portfolio"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:69
+msgid "Sub-headline for Portfolio"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:85
+msgid "Select Portfolio Type"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:99
+msgid ""
+"Save and refresh the page if No. of Portfolio is changed (Max no of "
+"Portfolio is 20)"
+msgstr ""
+
+#: ../inc/customizer-includes/portfolio.php:106
+msgid "No of Portfolio"
+msgstr ""
+
+#: ../inc/customizer-includes/promotion-headline.php:12
+msgid "Promotion Headline"
+msgstr ""
+
+#: ../inc/customizer-includes/promotion-headline.php:23
+msgid "Enable on"
+msgstr ""
+
+#: ../inc/customizer-includes/promotion-headline.php:37
+msgid "Type"
+msgstr ""
+
+#: ../inc/customizer-includes/promotion-headline.php:64
+msgid "Select Page"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:11
+msgid "Basic theme Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:14
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:19
+msgid ""
+"Breadcrumbs are a great way of letting your visitors find out where they are "
+"on your site with just a glance. You can enable/disable them on homepage and "
+"entire site."
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:21
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:32
+msgid "Check to enable Breadcrumb"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:45
+msgid "Check to enable Breadcrumb on Homepage"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:61
+msgid "Separator between Breadcrumbs"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:76
+msgid "Custom/Inline CSS"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:79
+msgid "Custom CSS Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:89
+msgid "Enter Custom CSS"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:102
+msgid "Excerpt Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:112
+msgid "Excerpt length. Default is 40 words"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:119
+msgid "Excerpt Length (words)"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:133
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:142
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:145
+msgid "Homepage / Frontpage Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:155
+msgid "Select Categories"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:169 ../inc/metabox.php:86
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:180
+msgid "Default Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:194
+msgid "Single Page/Post Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:208
+msgid "Archive Content Layout"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:223 ../inc/metabox.php:88
+#: ../inc/metabox.php:153
+msgid "Single Page/Post Image"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:235
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\">WP-PageNavi Plugin</a> is recommended for "
+"Numeric Option(But will work without it).<br/>Infinite Scroll Options "
+"requires <a target=\"_blank\" href=\"%2$s\">JetPack Plugin</a> with Infinite "
+"Scroll module Enabled."
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:255
+#, php-format
+msgid ""
+"Infinite Scroll Options requires <a target=\"_blank\" href=\"%s\">JetPack "
+"Plugin</a> with Infinite Scroll module Enabled."
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:275
+msgid "Pagination Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:286
+msgid "Pagination type"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:297
+msgid "Scrollup Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:307
+msgid "Check to disable Scroll Up"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:316
+msgid "Change default placeholder text in Search."
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:319
+msgid "Search Options"
+msgstr ""
+
+#: ../inc/customizer-includes/theme-options.php:329
+msgid "Default Display Text in Search"
+msgstr ""
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:76
+msgid "Helena Pro"
+msgstr ""
+
+#: ../inc/customizer-includes/upgrade-button/class-customize.php:77
+msgid "Upgrade Now"
+msgstr ""
+
+#: ../inc/default-options.php:28
+msgid "View More"
+msgstr ""
+
+#: ../inc/default-options.php:42
+msgid "Continue reading"
+msgstr ""
+
+#: ../inc/default-options.php:59 ../inc/default-options.php:62
+#: ../inc/promotion-headline.php:84
+msgid "Buy Now"
+msgstr ""
+
+#: ../inc/default-options.php:70
+msgid "Search..."
+msgstr ""
+
+#: ../inc/default-options.php:161 ../inc/default-options.php:261
+msgid "Homepage / Frontpage"
+msgstr ""
+
+#: ../inc/default-options.php:162
+msgid "Excluding Homepage"
+msgstr ""
+
+#: ../inc/default-options.php:163
+msgid "Excluding Homepage, Page/Post Featured Image"
+msgstr ""
+
+#: ../inc/default-options.php:164 ../inc/default-options.php:262
+msgid "Entire Site"
+msgstr ""
+
+#: ../inc/default-options.php:165
+msgid "Entire Site, Page/Post Featured Image"
+msgstr ""
+
+#: ../inc/default-options.php:166
+msgid "Pages and Posts"
+msgstr ""
+
+#: ../inc/default-options.php:167 ../inc/default-options.php:247
+#: ../inc/default-options.php:263 ../inc/default-options.php:474
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/default-options.php:179 ../inc/default-options.php:249
+#: ../inc/default-options.php:486
+msgid "Slider size (1170x658)"
+msgstr ""
+
+#: ../inc/default-options.php:180 ../inc/default-options.php:248
+msgid "Full size"
+msgstr ""
+
+#: ../inc/default-options.php:192
+msgid "Light"
+msgstr ""
+
+#: ../inc/default-options.php:193
+msgid "Dark"
+msgstr ""
+
+#: ../inc/default-options.php:206 ../inc/default-options.php:421
+msgid "Content, Primary Sidebar"
+msgstr ""
+
+#: ../inc/default-options.php:207 ../inc/default-options.php:426
+msgid "No Sidebar ( Full Width )"
+msgstr ""
+
+#: ../inc/default-options.php:219
+msgid "Default(Older Posts/Newer Posts)"
+msgstr ""
+
+#: ../inc/default-options.php:220
+msgid "Numeric"
+msgstr ""
+
+#: ../inc/default-options.php:221
+msgid "Infinite Scroll (Click)"
+msgstr ""
+
+#: ../inc/default-options.php:222
+msgid "Infinite Scroll (Scroll)"
+msgstr ""
+
+#: ../inc/default-options.php:235
+msgid "Show Excerpt (Image Top)"
+msgstr ""
+
+#: ../inc/default-options.php:236
+msgid "Show Full Content (No Featured Image)"
+msgstr ""
+
+#: ../inc/default-options.php:276 ../inc/default-options.php:385
+msgid "Demo Content"
+msgstr ""
+
+#: ../inc/default-options.php:277 ../inc/default-options.php:386
+msgid "Page Content"
+msgstr ""
+
+#: ../inc/default-options.php:290 ../inc/widgets/featured-posts.php:226
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../inc/default-options.php:291
+msgid "Show Full Content"
+msgstr ""
+
+#: ../inc/default-options.php:292
+msgid "Hide Content"
+msgstr ""
+
+#: ../inc/default-options.php:305
+msgid "Fade"
+msgstr ""
+
+#: ../inc/default-options.php:306
+msgid "Fade Out"
+msgstr ""
+
+#: ../inc/default-options.php:307
+msgid "None"
+msgstr ""
+
+#: ../inc/default-options.php:308
+msgid "Scroll Horizontal"
+msgstr ""
+
+#: ../inc/default-options.php:309
+msgid "Scroll Vertical"
+msgstr ""
+
+#: ../inc/default-options.php:310
+msgid "Flip Horizontal"
+msgstr ""
+
+#: ../inc/default-options.php:311
+msgid "Flip Vertical"
+msgstr ""
+
+#: ../inc/default-options.php:312
+msgid "Tile Slide"
+msgstr ""
+
+#: ../inc/default-options.php:313
+msgid "Tile Blind"
+msgstr ""
+
+#: ../inc/default-options.php:314
+msgid "Shuffle"
+msgstr ""
+
+#: ../inc/default-options.php:327
+msgid "Demo Featured Slider"
+msgstr ""
+
+#: ../inc/default-options.php:328
+msgid "Featured Page Slider"
+msgstr ""
+
+#: ../inc/default-options.php:341
+msgid "True"
+msgstr ""
+
+#: ../inc/default-options.php:342
+msgid "Wait"
+msgstr ""
+
+#: ../inc/default-options.php:343
+msgid "False"
+msgstr ""
+
+#: ../inc/default-options.php:356
+msgid "Demo Portfolio"
+msgstr ""
+
+#: ../inc/default-options.php:357
+msgid "Page Portfolio"
+msgstr ""
+
+#: ../inc/default-options.php:371
+msgid "Demo Logo Slider"
+msgstr ""
+
+#: ../inc/default-options.php:372
+msgid "Page Logo Slider"
+msgstr ""
+
+#: ../inc/default-options.php:399
+msgid "3 Columns"
+msgstr ""
+
+#: ../inc/default-options.php:400
+msgid "4 Columns"
+msgstr ""
+
+#: ../inc/default-options.php:416 ../inc/default-options.php:442
+#: ../inc/default-options.php:468 ../inc/widgets/tag-cloud.php:77
+msgid "Default"
+msgstr ""
+
+#: ../inc/default-options.php:447
+msgid "Enable"
+msgstr ""
+
+#: ../inc/default-options.php:452
+msgid "Disable"
+msgstr ""
+
+#: ../inc/default-options.php:480
+msgid "Full Image"
+msgstr ""
+
+#: ../inc/default-options.php:499
+msgid "Demo Featured Content"
+msgstr ""
+
+#: ../inc/default-options.php:500
+msgid "Featured Page Content"
+msgstr ""
+
+#: ../inc/default-options.php:513
+msgid "Demo Promotion Headline"
+msgstr ""
+
+#: ../inc/default-options.php:514
+msgid "Page Promotion Headline"
+msgstr ""
+
+#: ../inc/default-options.php:543
+#, php-format
+msgctxt "1: Year, 2: Site Title with home URL"
+msgid "Copyright &copy; %1$s %2$s."
+msgstr ""
+
+#: ../inc/default-options.php:543
+msgid "by"
+msgstr ""
+
+#: ../inc/extras.php:349
+msgid "Scroll Up"
+msgstr ""
+
+#: ../inc/extras.php:393 ../inc/extras.php:403
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../inc/extras.php:396
+msgctxt "Used before category names."
+msgid "<span class=\"screen-reader-text\">Categories</span>"
+msgstr ""
+
+#: ../inc/extras.php:406
+msgctxt "Used before tag names."
+msgid "<span class=\"screen-reader-text\">Tags</span>"
+msgstr ""
+
+#: ../inc/extras.php:427
+msgctxt "Used before publish date."
+msgid "<span class=\"screen-reader-text\">Posted on</span>"
+msgstr ""
+
+#: ../inc/extras.php:436
+msgctxt "Used before post author name."
+msgid "<span class=\"screen-reader-text\">Author</span>"
+msgstr ""
+
+#: ../inc/extras.php:541
+msgid "Posted on"
+msgstr ""
+
+#: ../inc/extras.php:542
+msgid "By"
+msgstr ""
+
+#: ../inc/featured-content.php:51
+msgid ""
+"Here you can showcase the x number of Featured Content. You can edit this "
+"Headline, Subheadline and Feaured Content from \"Appearance -> Customize -> "
+"Featured Content Options\"."
+msgstr ""
+
+#: ../inc/logo-slider.php:63
+msgid "Our Associates"
+msgstr ""
+
+#: ../inc/metabox.php:87
+msgid "Header Featured Image Options"
+msgstr ""
+
+#: ../inc/metabox.php:95
+msgid "Select Layout"
+msgstr ""
+
+#: ../inc/metabox.php:132
+msgid "Header Image Option"
+msgstr ""
+
+#: ../inc/metabox.php:224
+msgid "Helena Options"
+msgstr ""
+
+#: ../inc/portfolio.php:49
+msgid "Here you can showcase the x number of Portfolios."
+msgstr ""
+
+#: ../inc/promotion-headline.php:77
+msgid "Helena WordPress Theme"
+msgstr ""
+
+#: ../inc/promotion-headline.php:80
+msgid "This is promotion headline"
+msgstr ""
+
+#: ../inc/structure.php:56
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/structure.php:164
+msgid "Menu"
+msgstr ""
+
+#: ../inc/structure.php:186
+msgid "Search"
+msgstr ""
+
+#: ../inc/template-tags.php:47
+msgid "Previous page"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Next page"
+msgstr ""
+
+#: ../inc/template-tags.php:88
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:88
+msgid "1 Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:88
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:103 ../inc/template-tags.php:109
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:105
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:111
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:118
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:46
+msgid "Read More ..."
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:51
+msgid "Displays featured posts with thumbnails"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:60
+msgid "CT: Featured Posts"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:79
+msgid "Select Posts From"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:84
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:85 ../inc/widgets/featured-posts.php:122
+msgid "ID"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:96
+msgid "Post ID"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:98
+msgid "Separate Multiple Post IDs by ,(comma)"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:112
+msgid "No. of Posts"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:117
+msgid "Order By"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:121
+msgid "Date"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:123
+msgid "Author"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:124
+msgid "title"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:126
+msgid "Comment Count"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:127 ../inc/widgets/tag-cloud.php:94
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:138
+msgid "Order"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:142
+msgid "Descending (3, 2, 1)"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:143
+msgid "Ascending (1, 2, 3)"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:154
+msgid "Layout"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:158
+msgid "1 Column"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:159
+msgid "2 Column"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:160
+msgid "3 Column"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:161
+msgid "4 Column"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:173
+msgid "Check to Disable Image"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:177
+msgid "Image Alignment"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:181
+msgid "Top"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:182
+msgid "Left"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:183
+msgid "Right"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:184
+msgid "Center"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:195
+msgid "Image Size"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:207
+msgid "Check to Disable Title"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:211
+msgid "Post Meta Info"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:213
+msgid "Check to Hide Cagegory"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:215
+msgid "Check to Hide Tags"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:217
+msgid "Check to Hide Posted On Date"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:219
+msgid "Check Hide to Author"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:223
+msgid "Content Type"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:225
+msgid "Show Content"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:227
+msgid "Show Content Limit"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:228
+msgid "No Content"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:231
+msgid "Limit content to"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:233
+msgid "characters"
+msgstr ""
+
+#: ../inc/widgets/featured-posts.php:238
+msgid "More Text (if applicable)"
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:25
+msgid "Use this widget to add Social Icons Menu as a widget. "
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:92
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:101
+msgid "Select Menu:"
+msgstr ""
+
+#: ../inc/widgets/social-icons.php:103
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:41
+msgid "Displays Custom Tag Cloud with selected layout"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:50
+msgid "CT: Tag Cloud"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:68
+msgid "No. of Items"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:73
+msgid "Skins(Theme)"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:78
+msgid "Box"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:79
+msgid "Rounded Corners"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:90
+msgid "Sequence"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:95
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:96
+msgid "Descending"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:106
+msgid "Taxonomies to be used"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:109
+msgid "Post Tags"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:113
+msgid "Category"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:117
+msgid "Link Category"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:120
+msgid "Custom Taxnomy"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:122
+msgid "Use Custom Taxonomy Slug separated by comma(,)"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:125
+msgid "Additional Options"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:129
+msgid "Smallest"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:132
+msgid ""
+"The text size of the tag with the smallest count value (units given by unit "
+"parameter). "
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:136
+msgid "Largest"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:139
+msgid ""
+"The text size of the tag with the largest count value (units given by unit "
+"parameter). "
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:143
+msgid "Unit"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:147
+msgid "pt"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:148
+msgid "px"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:149
+msgid "em"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:150
+msgid "%"
+msgstr ""
+
+#: ../inc/widgets/tag-cloud.php:159
+msgid ""
+"Unit of measure as pertains to the smallest and largest values. This can be "
+"any CSS length value."
+msgstr ""
+
+#: ../inc/widgets/widgets.php:18
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:24
+msgid ""
+"This is the primary sidebar if you are using a two column site layout option."
+msgstr ""
+
+#: ../inc/widgets/widgets.php:31
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:37
+#, php-format
+msgid "Footer %d widget area."
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:15
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../sidebar.php:33
+msgid "Primary Sidebar Widget Area"
+msgstr ""
+
+#: ../sidebar.php:36
+msgid ""
+"This is the Primary Sidebar Widget Area if you are using a two column site "
+"layout option."
+msgstr ""
+
+#: ../sidebar.php:37
+#, php-format
+msgid ""
+"By default it will load Search and Archives widgets as shown below. You can "
+"add widget to this area by visiting your %1$s Widgets Panel%2$s which will "
+"replace default widgets."
+msgstr ""
+
+#: ../sidebar.php:50
+msgid "Archives"
+msgstr ""
+
+#: ../template-parts/biography.php:27
+msgid "Author:"
+msgstr ""
+
+#: ../template-parts/biography.php:32
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../template-parts/content-hero.php:31 ../template-parts/content-page.php:31
+#: ../template-parts/content-single.php:34 ../template-parts/content.php:36
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-hero.php:48
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: ../template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../template-parts/content-page.php:45
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""

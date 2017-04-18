@@ -1,0 +1,69 @@
+/* widget one page */
+
+.one-page-nav {
+	background: rgba(255,255,255,.8);
+	margin: 0;
+	text-align: center;
+}
+
+.one-page-nav li{
+	border-radius: 1px;
+	background: linear-gradient(to left, rgba(0,0,0,.3), rgba(0,0,0,.0) 50%, rgba(0,0,0,.3)), linear-gradient(#d77d31, #fe8417, #d77d31);
+	background-size: 100% 100%, auto;
+	background-position: 50% 50%;
+	box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, #000 0 10px 15px -10px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 10px;
+	font-weight: bold;
+	margin: 2px;
+	outline: none;
+	padding: 5px;
+	position: relative;
+	text-decoration: none;
+	text-shadow: 0 -1px 1px #cc5500;
+	transition: 0.2s;
+}
+
+.one-page-nav li:hover {
+  background-size: 140% 100%, auto;
+}
+
+.one-page-nav li:active {
+  top: 1px;
+  color: #ffdead;
+  box-shadow: inset #ebab00 0 -1px 1px, inset 0 1px 1px #ffbf00, #cc7722 0 0 0 1px, 0 10px 10px -9px #000;
+}
+
+.one-page-nav .invisible {
+	display: none;
+}
+
+.wide .widget.sgwindow_sidebar_nav {
+	padding-bottom: 0;
+}
+
+.wide .widget.sgwindow_sidebar_nav .current {
+	color: rgb(245,245,245);
+	cursor: pointer;
+	border-radius: 3px;
+	background: #0c9c0d linear-gradient(#82d18d, #0c9c0d);
+	box-shadow: inset #72de26 0 -1px 1px, inset 0 1px 1px #98ff98, #3caa3c 0 0 0 1px, rgba(0,0,0,.3) 0 2px 5px;
+	text-shadow: 0 -1px rgba(0,0,0,.1);
+	text-decoration: underline;
+}
+
+.site .wide .widget.sgwindow_sidebar_nav > div {
+	max-width: 100%;
+}
+
+@media screen and (min-width: 680px) {	
+	.one-page-nav li{
+		font-size: 14px;
+		min-width: 100px;
+		margin: 10px;
+		outline: none;
+		padding: .8em 2em;
+	}
+}

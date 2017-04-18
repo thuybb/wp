@@ -1,0 +1,1787 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zxc\n"
+"POT-Creation-Date: 2015-08-13 11:15+0300\n"
+"PO-Revision-Date: 2015-08-13 11:15+0300\n"
+"Last-Translator:\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_e;esc_attr_x;_x;esc_html_e;"
+"esc_html__\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPath-2: .\n"
+
+#: ../archive-jetpack-portfolio.php:21 ../inc/widget-project-naigation.php:75
+#: ../inc/widget-project-naigation.php:90
+msgid "All Projects"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Archives"
+msgstr ""
+
+#: ../author.php:25
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../comments.php:22
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-archive.php:38 ../content-archive.php:51
+#: ../content-jetpack-portfolio-archive.php:38 ../content-page-archive.php:24
+msgid "Read more.."
+msgstr ""
+
+#: ../content-archive.php:72
+msgid "<div class=\"meta-nav\">Continue reading... &rarr;</div>"
+msgstr ""
+
+#: ../content-archive.php:85 ../content-jetpack-portfolio-archive.php:76
+#: ../content-jetpack-portfolio.php:78 ../content-page-archive.php:51
+#: ../content-page.php:43 ../content.php:74 ../inc/widget-page.php:136
+msgid "Edit"
+msgstr ""
+
+#: ../content-jetpack-portfolio.php:60
+msgid "<div class=\"meta-nav\">Continue Reading... &rarr;</div>"
+msgstr ""
+
+#: ../content-jetpack-portfolio.php:61
+msgid "Portfolio:"
+msgstr ""
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:32
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:34 ../content.php:56
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:55
+msgid "<div class=\"meta-nav\">Read more... &rarr;</div>"
+msgstr ""
+
+#: ../customize-layout.php:16 ../inc/customize-layout.php:16
+msgid "Customize Layout"
+msgstr ""
+
+#: ../customize-layout.php:17 ../inc/customize-layout.php:17
+msgid "In this section you can choose layout settings."
+msgstr ""
+
+#: ../customize-layout.php:25 ../inc/customize-layout.php:25
+msgid "Site size"
+msgstr ""
+
+#: ../customize-layout.php:26 ../inc/customize-layout.php:26
+msgid "You can control main dimensions of your website from this section"
+msgstr ""
+
+#: ../customize-layout.php:39 ../customize-layout.php:94
+#: ../inc/customize-fonts.php:119
+msgid "(px)"
+msgstr ""
+
+#: ../customize-layout.php:59
+msgid "Width of the site"
+msgstr ""
+
+#: ../customize-layout.php:77 ../inc/customize-layout.php:40
+msgid "Max width of the content area (no columns layout)"
+msgstr ""
+
+#: ../customize-layout.php:114
+msgid "Width of the content area (including columns)"
+msgstr ""
+
+#: ../customize-layout.php:129
+msgid "Content style"
+msgstr ""
+
+#: ../customize-layout.php:134
+msgid "Boxed"
+msgstr ""
+
+#: ../customize-layout.php:135 ../customize-layout.php:594
+#: ../inc/customize-layout.php:668
+msgid "Full Width"
+msgstr ""
+
+#: ../customize-layout.php:143 ../inc/customize-layout.php:52
+msgid "Featured Image"
+msgstr ""
+
+#: ../customize-layout.php:144 ../inc/customize-layout.php:53
+msgid "Image Size"
+msgstr ""
+
+#: ../customize-layout.php:156 ../inc/customize-layout.php:65
+msgid ""
+"Width of the Featured Image (Images should be updated with Regenerate "
+"Thumbnails plugin)."
+msgstr ""
+
+#: ../customize-layout.php:168 ../inc/customize-layout.php:77
+#: ../inc/customize-mobile.php:24
+msgid "Columns"
+msgstr ""
+
+#: ../customize-layout.php:169 ../inc/customize-layout.php:78
+msgid "You can set the size of columns in this section"
+msgstr ""
+
+#: ../customize-layout.php:181 ../inc/customize-layout.php:90
+msgid "Unit"
+msgstr ""
+
+#: ../customize-layout.php:186 ../inc/customize-layout.php:95
+msgid "%"
+msgstr ""
+
+#: ../customize-layout.php:201 ../customize-layout.php:237
+#: ../customize-layout.php:274 ../customize-layout.php:310
+#: ../inc/customize-layout.php:110 ../inc/customize-layout.php:146
+#: ../inc/customize-layout.php:183 ../inc/customize-layout.php:219
+msgid "(%)"
+msgstr ""
+
+#: ../customize-layout.php:221 ../inc/customize-layout.php:130
+msgid "Width of the first column (two sidebars layout)"
+msgstr ""
+
+#: ../customize-layout.php:257 ../inc/customize-layout.php:166
+msgid "Width of the second column (two sidebars layout)"
+msgstr ""
+
+#: ../customize-layout.php:294 ../inc/customize-layout.php:203
+msgid "Width of the first column (left sidebar layout)"
+msgstr ""
+
+#: ../customize-layout.php:330 ../inc/customize-layout.php:239
+msgid "Width of the second column (right sidebar layout)"
+msgstr ""
+
+#: ../customize-layout.php:343 ../inc/customize-layout.php:252
+msgid "Check mark to display content on the static front page"
+msgstr ""
+
+#: ../customize-layout.php:355 ../inc/customize-layout.php:276
+msgid "Post"
+msgstr ""
+
+#: ../customize-layout.php:356 ../inc/customize-layout.php:277
+msgid "Customize posts"
+msgstr ""
+
+#: ../customize-layout.php:368 ../inc/customize-layout.php:289
+msgid "Post style"
+msgstr ""
+
+#: ../customize-layout.php:384 ../customize-layout.php:462
+#: ../customize-layout.php:511 ../inc/customize-layout.php:398
+#: ../inc/customize-layout.php:536 ../inc/customize-layout.php:585
+msgid "Display Featured Image"
+msgstr ""
+
+#: ../customize-layout.php:399 ../customize-layout.php:477
+#: ../customize-layout.php:526 ../inc/customize-layout.php:413
+#: ../inc/customize-layout.php:551 ../inc/customize-layout.php:600
+msgid "Display Title"
+msgstr ""
+
+#: ../customize-layout.php:414 ../inc/customize-layout.php:428
+msgid "Display Category List"
+msgstr ""
+
+#: ../customize-layout.php:429 ../customize-layout.php:556
+#: ../inc/customize-layout.php:443 ../inc/customize-layout.php:630
+msgid "Display Tag List"
+msgstr ""
+
+#: ../customize-layout.php:446 ../inc/customize-layout.php:520
+msgid "Page style"
+msgstr ""
+
+#: ../customize-layout.php:495 ../inc/customize-layout.php:569
+msgid "Portfolio Archive/Index style"
+msgstr ""
+
+#: ../customize-layout.php:541 ../inc/customize-layout.php:615
+msgid "Display Project"
+msgstr ""
+
+#: ../customize-layout.php:572 ../inc/customize-layout.php:646
+msgid "Excerpt"
+msgstr ""
+
+#: ../customize-layout.php:573 ../inc/customize-layout.php:647
+msgid "Content"
+msgstr ""
+
+#: ../customize-layout.php:574 ../inc/customize-layout.php:648
+msgid "No Content"
+msgstr ""
+
+#: ../customize-layout.php:595 ../inc/customize-layout.php:669
+msgid "Left Column"
+msgstr ""
+
+#: ../customize-layout.php:596 ../inc/customize-layout.php:670
+msgid "Right Column"
+msgstr ""
+
+#: ../customize-layout.php:597 ../inc/customize-layout.php:671
+msgid "Two Columns"
+msgstr ""
+
+#: ../customize-layout.php:609 ../inc/customize-layout.php:683
+msgid "Default (1 column)"
+msgstr ""
+
+#: ../customize-layout.php:610 ../inc/customize-layout.php:684
+msgid "1 column"
+msgstr ""
+
+#: ../customize-layout.php:611 ../inc/customize-layout.php:685
+msgid "2 columns"
+msgstr ""
+
+#: ../customize-layout.php:612 ../inc/customize-layout.php:686
+msgid "3 columns"
+msgstr ""
+
+#: ../customize-layout.php:613 ../inc/customize-layout.php:687
+msgid "4 columns"
+msgstr ""
+
+#: ../customize-layout.php:727 ../functions.php:939
+#: ../inc/customize-layout.php:812
+msgid "Home"
+msgstr ""
+
+#: ../customize-layout.php:735 ../functions.php:919
+#: ../inc/customize-layout.php:820
+msgid "Blog"
+msgstr ""
+
+#: ../customize-layout.php:743
+msgid "Category"
+msgstr ""
+
+#: ../customize-layout.php:751
+msgid "Tag"
+msgstr ""
+
+#: ../customize-layout.php:759 ../functions.php:864
+#: ../inc/customize-layout.php:878
+msgid "Archive"
+msgstr ""
+
+#: ../customize-layout.php:767 ../functions.php:929
+#: ../inc/customize-layout.php:828
+msgid "Search"
+msgstr ""
+
+#: ../customize-layout.php:775 ../inc/customize-layout.php:837
+msgid "Shop"
+msgstr ""
+
+#: ../customize-layout.php:783 ../inc/customize-layout.php:845
+msgid "Shop Page"
+msgstr ""
+
+#: ../customize-layout.php:791 ../inc/customize-layout.php:870
+msgid "Page"
+msgstr ""
+
+#: ../customize-layout.php:799 ../functions.php:884
+#: ../inc/customize-layout.php:854
+msgid "Portfolio (Archive)"
+msgstr ""
+
+#: ../customize-layout.php:807 ../functions.php:874
+#: ../inc/customize-layout.php:862
+msgid "Portfolio (Page)"
+msgstr ""
+
+#: ../customize-layout.php:815 ../functions.php:843
+#: ../inc/customize-layout.php:886
+msgid "Default"
+msgstr ""
+
+#: ../customize-layout.php:892 ../inc/customize-layout.php:972
+msgid "Layout settings for "
+msgstr ""
+
+#: ../customize-layout.php:904 ../inc/customize-layout.php:984
+msgid " layout"
+msgstr ""
+
+#: ../customize-layout.php:922 ../inc/customize-layout.php:1002
+msgid " layout (content)"
+msgstr ""
+
+#: ../functions.php:60
+msgid "First Top Menu"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Second Top Menu"
+msgstr ""
+
+#: ../functions.php:64
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:148
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, Alegreya Sans, Allerta Stencil fonts, translate this to 'off'. Do not translate into your own language.
+#.
+#: ../functions.php:183
+msgctxt "Open Sans, Allerta Stencil, Alegreya Sans fonts: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional Open Sans character subset specific to your language,
+#. * translate this to 'greek', 'cyrillic' or 'vietnamese'. Do not translate into your own language.
+#.
+#: ../functions.php:190
+msgctxt "Font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: ../functions.php:404
+msgid "Post navigation"
+msgstr ""
+
+#: ../functions.php:408
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: ../functions.php:410
+msgid "<span class=\"nav-next\">%title &rarr;</span>"
+msgstr ""
+
+#: ../functions.php:412
+msgid "<span class=\"nav-previous\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:415
+msgid "<span class=\"nav-previous-one\">&larr; %title</span>"
+msgstr ""
+
+#: ../functions.php:461
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../functions.php:462
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../functions.php:469
+msgid "Posts navigation"
+msgstr ""
+
+#: ../functions.php:584
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:584
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:584
+msgid "% Comments"
+msgstr ""
+
+#: ../functions.php:792
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../functions.php:792
+msgid "Powered by WordPress"
+msgstr ""
+
+#: ../functions.php:792
+msgid "theme "
+msgstr ""
+
+#: ../functions.php:792
+msgid "http://wpblogs.ru/themes/blog/theme/sg-window/"
+msgstr ""
+
+#: ../functions.php:802
+msgid "First column"
+msgstr ""
+
+#: ../functions.php:806
+msgid "Second column"
+msgstr ""
+
+#: ../functions.php:810
+msgid "First Top Sidebar"
+msgstr ""
+
+#: ../functions.php:814
+msgid "Before Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:818
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: ../functions.php:822
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: ../functions.php:826
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: ../functions.php:835
+msgid "Static"
+msgstr ""
+
+#: ../functions.php:854
+msgid "Pages"
+msgstr ""
+
+#: ../functions.php:897
+msgid "Shop (Page)"
+msgstr ""
+
+#: ../functions.php:907
+msgid "Shop (Archive)"
+msgstr ""
+
+#: ../functions.php:949
+msgid "Page 404"
+msgstr ""
+
+#: ../functions.php:1337 ../inc/widget-project-naigation.php:163
+msgid "Projects"
+msgstr ""
+
+#: ../functions.php:1456 ../inc/widget-slider.php:526
+msgid "Related Posts"
+msgstr ""
+
+#: ../functions.php:1460 ../inc/widget-items-category.php:360
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions.php:1478 ../inc/widget-items-portfolio.php:352
+msgid "Recent Projects"
+msgstr ""
+
+#: ../functions.php:1502
+msgid "404 Page"
+msgstr ""
+
+#: ../functions.php:1503
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../functions.php:1517 ../inc/widget-tags-naigation.php:151
+msgid "Tags"
+msgstr ""
+
+#: ../inc/admin-page.php:8
+msgid "About theme"
+msgstr ""
+
+#: ../inc/admin-page.php:8
+msgid "About SG Window"
+msgstr ""
+
+#: ../inc/admin-page.php:36
+msgid ""
+"SG Window is a highly customizable WordPress theme with responsive design. "
+"Front page can include custom blocks and pages with different layouts. Theme "
+"includes one page navigation menu and CSS3&JQuery effects. It has many "
+"options in the theme customizer (per page sidebars, layouts: right column, "
+"left column, two columns, full width; blog: from 1 to 4 columns; favicon; "
+"logo; all google fonts; 2 color schemes, 3 nav menus and other options). SG "
+"Window has 4 footers, 4 per page sidebars and 10 custom widgets (Social "
+"Media Icons, Buttons, Images, Posts, Pages, Navigation). It can be used for "
+"portfolio, blog, e-commerce, business, landing page websites. Supports "
+"popular plugins: WooCommerce and portfolio from Jetpack. Translation ready. "
+"You can find the demo at http://wpblogs.info/demo/sg-window/"
+msgstr ""
+
+#: ../inc/admin-page.php:50
+msgid "Main Info"
+msgstr ""
+
+#: ../inc/admin-page.php:52
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/admin-page.php:53
+msgid "Widgets"
+msgstr ""
+
+#: ../inc/admin-page.php:54 ../inc/customize-info.php:99
+msgid "http://wpblogs.ru/themes/how-to-video-sg-window-theme/"
+msgstr ""
+
+#: ../inc/admin-page.php:54
+msgid "How to use a theme (Video)"
+msgstr ""
+
+#: ../inc/admin-page.php:55
+msgid "Support forum"
+msgstr ""
+
+#: ../inc/admin-page.php:56 ../inc/customize-info.php:67
+msgid "Rate on WordPress.org"
+msgstr ""
+
+#: ../inc/admin-page.php:58 ../inc/customize-info.php:116
+#: ../inc/customize-info.php:151
+msgid "Update to Pro"
+msgstr ""
+
+#: ../inc/admin-page.php:68
+msgid ""
+"You are using light version of SG Window. Update to SG Window Pro to have "
+"even more features. For Example:"
+msgstr ""
+
+#: ../inc/admin-page.php:70
+msgid "Custom colors;"
+msgstr ""
+
+#: ../inc/admin-page.php:71
+msgid "Site/content width;"
+msgstr ""
+
+#: ../inc/admin-page.php:72
+msgid "Boxed/Full width layout;"
+msgstr ""
+
+#: ../inc/admin-page.php:73
+msgid "WooCommerce layouts;"
+msgstr ""
+
+#: ../inc/admin-page.php:74
+msgid "Footer text options."
+msgstr ""
+
+#: ../inc/admin-page.php:77
+msgid ""
+"You are using full version of SG Window: SG Window Pro. If you find this "
+"theme useful please consider supporting it by donation."
+msgstr ""
+
+#: ../inc/admin-page.php:91 ../inc/widget-button.php:155
+#: ../inc/widget-image.php:410 ../inc/widget-items-category.php:371
+#: ../inc/widget-items-portfolio.php:363 ../inc/widget-items-products.php:367
+msgid "More Info"
+msgstr ""
+
+#: ../inc/customize-colors.php:21
+msgid "Blue"
+msgstr ""
+
+#: ../inc/customize-colors.php:22
+msgid "Green"
+msgstr ""
+
+#: ../inc/customize-colors.php:23
+msgid "Blue-White"
+msgstr ""
+
+#: ../inc/customize-colors.php:29
+msgid "Main Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:29
+msgid "Main website colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:35
+msgid "Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:42
+msgid "H1-H6 heading"
+msgstr ""
+
+#: ../inc/customize-colors.php:49
+msgid "H1-H6 Link"
+msgstr ""
+
+#: ../inc/customize-colors.php:56 ../inc/widget-slider.php:667
+msgid "Description"
+msgstr ""
+
+#: ../inc/customize-colors.php:63
+msgid "Link Hover"
+msgstr ""
+
+#: ../inc/customize-colors.php:240
+msgid "Customize Colors"
+msgstr ""
+
+#: ../inc/customize-colors.php:241
+msgid "In this section you can change colors for different elements."
+msgstr ""
+
+#: ../inc/customize-colors.php:245 ../inc/customize-colors.php:258
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/customize-colors.php:246
+msgid "This option refresh theme colors."
+msgstr ""
+
+#: ../inc/customize-colors.php:304
+msgid "Opacity for the "
+msgstr ""
+
+#: ../inc/customize-fonts.php:36
+msgid "Customize Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:37
+msgid "Selecting a google fonts."
+msgstr ""
+
+#: ../inc/customize-fonts.php:44
+msgid "Google Fonts"
+msgstr ""
+
+#: ../inc/customize-fonts.php:56
+msgid "Body Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:72
+msgid "Header Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:82 ../inc/customize-fonts.php:105
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/customize-fonts.php:95
+msgid "Heading Font"
+msgstr ""
+
+#: ../inc/customize-fonts.php:133
+msgid "Heading font size(px)"
+msgstr ""
+
+#: ../inc/customize-fonts.php:146
+msgid "Heading Font Weight"
+msgstr ""
+
+#: ../inc/customize-fonts.php:156 ../inc/customize-fonts.php:164
+msgid "Reset"
+msgstr ""
+
+#: ../inc/customize-fonts.php:157
+msgid "Reset font settings to default"
+msgstr ""
+
+#: ../inc/customize-fonts.php:185
+msgid "Lighter"
+msgstr ""
+
+#: ../inc/customize-fonts.php:186
+msgid "Normal"
+msgstr ""
+
+#: ../inc/customize-fonts.php:187
+msgid "Bold"
+msgstr ""
+
+#: ../inc/customize-fonts.php:253 ../inc/customize-other.php:149
+#: ../inc/customize-other.php:167
+msgid "None"
+msgstr ""
+
+#: ../inc/customize-info.php:35
+msgid "Info"
+msgstr ""
+
+#: ../inc/customize-info.php:36
+msgid "Info and Links."
+msgstr ""
+
+#: ../inc/customize-info.php:43
+msgid "Support"
+msgstr ""
+
+#: ../inc/customize-info.php:44
+msgid "Got something to say? Need help?"
+msgstr ""
+
+#: ../inc/customize-info.php:58 ../inc/customize-info.php:59
+msgid "View Support forum"
+msgstr ""
+
+#: ../inc/customize-info.php:68
+msgid ""
+"Share your thoughts about this theme. Your opinion is important for further "
+"improvement."
+msgstr ""
+
+#: ../inc/customize-info.php:82 ../inc/customize-info.php:83
+msgid "Rate"
+msgstr ""
+
+#: ../inc/customize-info.php:92
+msgid "Help"
+msgstr ""
+
+#: ../inc/customize-info.php:105
+msgid "How to use (video instruction)."
+msgstr ""
+
+#: ../inc/customize-info.php:106
+msgid "Open"
+msgstr ""
+
+#: ../inc/customize-info.php:123 ../inc/customize-info.php:145
+msgid "http://wpblogs.ru/themes/sg-window-pro/"
+msgstr ""
+
+#: ../inc/customize-info.php:129 ../inc/customize-info.php:130
+#: ../inc/customize-info.php:152
+msgid "Update Now"
+msgstr ""
+
+#: ../inc/customize-info.php:138
+msgid "More Colors"
+msgstr ""
+
+#: ../inc/customize-layout.php:265
+msgid "Check mark to display footer on the home page"
+msgstr ""
+
+#: ../inc/customize-layout.php:308
+msgid "Display empty icon"
+msgstr ""
+
+#: ../inc/customize-layout.php:323
+msgid "Display the post author"
+msgstr ""
+
+#: ../inc/customize-layout.php:338 ../inc/customize-layout.php:473
+msgid "Display the post date"
+msgstr ""
+
+#: ../inc/customize-layout.php:353
+msgid "Display the post views"
+msgstr ""
+
+#: ../inc/customize-layout.php:368
+msgid "Display the link to post comments"
+msgstr ""
+
+#: ../inc/customize-layout.php:383
+msgid "Display meta text"
+msgstr ""
+
+#: ../inc/customize-layout.php:458
+msgid "Display the author"
+msgstr ""
+
+#: ../inc/customize-layout.php:488
+msgid "Display views"
+msgstr ""
+
+#: ../inc/customize-layout.php:503
+msgid "Display link to comments"
+msgstr ""
+
+#: ../inc/customize-mobile.php:15
+msgid "Customize Mobile Version"
+msgstr ""
+
+#: ../inc/customize-mobile.php:16
+msgid "Settings for mobile users."
+msgstr ""
+
+#: ../inc/customize-mobile.php:25
+msgid "Settings for small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:37
+msgid "Switch point"
+msgstr ""
+
+#: ../inc/customize-mobile.php:46
+msgid "Order"
+msgstr ""
+
+#: ../inc/customize-mobile.php:47
+msgid "Order and visibility for columns on small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:59
+msgid "Content and column-1, column-2 position for small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:64
+msgid "Content-1-2"
+msgstr ""
+
+#: ../inc/customize-mobile.php:65
+msgid "Content-2-1"
+msgstr ""
+
+#: ../inc/customize-mobile.php:66
+msgid "1-Content-2"
+msgstr ""
+
+#: ../inc/customize-mobile.php:67
+msgid "2-Content-1"
+msgstr ""
+
+#: ../inc/customize-mobile.php:68
+msgid "1-2-Content"
+msgstr ""
+
+#: ../inc/customize-mobile.php:69
+msgid "2-1-Content"
+msgstr ""
+
+#: ../inc/customize-mobile.php:80
+msgid "Check mark to display first column on small screens"
+msgstr ""
+
+#: ../inc/customize-mobile.php:94
+msgid "Check mark to display second column on small screens"
+msgstr ""
+
+#: ../inc/customize-other.php:15
+msgid "Customize Other Settings"
+msgstr ""
+
+#: ../inc/customize-other.php:16
+msgid "All other settings."
+msgstr ""
+
+#: ../inc/customize-other.php:23
+msgid "Logotype"
+msgstr ""
+
+#: ../inc/customize-other.php:35
+msgid "Logotype Image"
+msgstr ""
+
+#: ../inc/customize-other.php:43
+msgid "Fixed Background"
+msgstr ""
+
+#: ../inc/customize-other.php:55
+msgid "Site Background"
+msgstr ""
+
+#: ../inc/customize-other.php:68
+msgid "Vertical position"
+msgstr ""
+
+#: ../inc/customize-other.php:73
+msgid "Top"
+msgstr ""
+
+#: ../inc/customize-other.php:74 ../inc/customize-other.php:152
+msgid "Center"
+msgstr ""
+
+#: ../inc/customize-other.php:75
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/customize-other.php:80
+msgid "Navigation menu settings"
+msgstr ""
+
+#: ../inc/customize-other.php:92
+msgid "Switch On First Top Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:107
+msgid "Switch On Second Top Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:121
+msgid "Switch On Footer Menu"
+msgstr ""
+
+#: ../inc/customize-other.php:130
+msgid "Scroll To Top Button"
+msgstr ""
+
+#: ../inc/customize-other.php:144
+msgid "How to display the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:150 ../inc/widget-image.php:317
+#: ../inc/widget-items-category.php:346 ../inc/widget-items-portfolio.php:338
+#: ../inc/widget-items-products.php:342
+msgid "Right"
+msgstr ""
+
+#: ../inc/customize-other.php:151
+msgid "Left"
+msgstr ""
+
+#: ../inc/customize-other.php:162
+msgid "How to animate the scroll to top button"
+msgstr ""
+
+#: ../inc/customize-other.php:168
+msgid "Jump"
+msgstr ""
+
+#: ../inc/customize-other.php:173 ../inc/customize-other.php:186
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/customize-other.php:174
+msgid ""
+"You can select an Icon to be shown at the top of browser window by uploading "
+"from your computer. (Size: [16X16] px)"
+msgstr ""
+
+#: ../inc/customize-other.php:203
+msgid "Display Header Image on the Front Page only"
+msgstr ""
+
+#: ../inc/customize-other.php:218
+msgid "Display Header Text on the Front Page only"
+msgstr ""
+
+#: ../inc/customize-other.php:226 ../inc/customize-other.php:241
+msgid "--"
+msgstr ""
+
+#: ../inc/customize-other.php:258
+msgid "Max id"
+msgstr ""
+
+#: ../inc/customize-other.php:279
+msgid "Social Media Icons"
+msgstr ""
+
+#: ../inc/customize-other.php:280
+msgid ""
+"Add your Social Media Links. Use widget Social Icons to add icons to your "
+"the site."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:16
+msgid "Customize Sidebars"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:17
+msgid "In this section you can add or remove sidebars for particular pages."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:29
+msgid "You can add custom sidebars for the page(s) \""
+msgstr ""
+
+#: ../inc/customize-sidebars.php:29
+msgid ""
+"\" by selecting options in this section. Default sidebars won't be shown on "
+"this page(s)."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:30
+msgid "Default sidebars for all pages, post and custom post types."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:45
+msgid "Register default sidebars for all pages"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:47
+msgid "Override default sidebars by custom sidebars on "
+msgstr ""
+
+#: ../inc/customize-sidebars.php:47
+msgid ""
+" (must be checked). Please, choose sidebars which you want to use on this "
+"page."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:103
+msgid "Page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:104
+msgid "Per page sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:119
+msgid "Uncheck this mark to remove section and custom sidebars for the page ["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:156
+msgid "Custom sidebars"
+msgstr ""
+
+#: ../inc/customize-sidebars.php:157
+msgid ""
+"In this section you can create a sidebar for a certain page. Select page and "
+"press save. Refresh Customizer to see newly added section for that page."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:173
+msgid ""
+"Select a page and save data. Refresh Customizer to customize new section."
+msgstr ""
+
+#: ../inc/customize-sidebars.php:252
+msgid "["
+msgstr ""
+
+#: ../inc/customize-sidebars.php:252
+msgid "] "
+msgstr ""
+
+#: ../inc/customize.php:13
+msgid "Customize Background"
+msgstr ""
+
+#: ../inc/customize.php:14
+msgid "Background."
+msgstr ""
+
+#: ../inc/customize.php:19
+msgid "Customize Menu"
+msgstr ""
+
+#: ../inc/customize.php:20
+msgid "Navigation settings."
+msgstr ""
+
+#: ../inc/social-media-widget.php:12
+msgid "Display Social Media Links."
+msgstr ""
+
+#: ../inc/social-media-widget.php:21
+msgid "SG Social Media Icons"
+msgstr ""
+
+#: ../inc/social-media-widget.php:80 ../inc/widget-button.php:122
+#: ../inc/widget-image.php:290 ../inc/widget-items-category.php:270
+#: ../inc/widget-items-portfolio.php:261 ../inc/widget-items-products.php:272
+#: ../inc/widget-page.php:199 ../inc/widget-project-naigation.php:149
+#: ../inc/widget-sidebar-navigation.php:139 ../inc/widget-sidebar.php:193
+#: ../inc/widget-slider.php:510 ../inc/widget-slider.php:625
+#: ../inc/widget-tags-naigation.php:138
+msgid "Title: "
+msgstr ""
+
+#: ../inc/social-media-widget.php:82
+msgid "Small Icons."
+msgstr ""
+
+#: ../inc/social-media-widget.php:83
+msgid "Vertical Icons."
+msgstr ""
+
+#: ../inc/widget-button.php:19
+msgid "Display Buttons"
+msgstr ""
+
+#: ../inc/widget-button.php:28
+msgid "SG Buttons (SG Window)"
+msgstr ""
+
+#: ../inc/widget-button.php:130
+msgid "Button "
+msgstr ""
+
+#: ../inc/widget-button.php:138
+msgid "URL: "
+msgstr ""
+
+#: ../inc/widget-button.php:139
+msgid "Caption"
+msgstr ""
+
+#: ../inc/widget-button.php:141 ../inc/widget-items-category.php:326
+#: ../inc/widget-items-portfolio.php:317 ../inc/widget-items-products.php:328
+msgid "Count: "
+msgstr ""
+
+#: ../inc/widget-button.php:173 ../inc/widget-image.php:443
+msgid "Read more..."
+msgstr ""
+
+#: ../inc/widget-functions.php:55
+msgid "Hover Effect Style:"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "Caption (1)"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "50% (2)"
+msgstr ""
+
+#: ../inc/widget-functions.php:58
+msgid "Fast (3)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Slow (4)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Side (5)"
+msgstr ""
+
+#: ../inc/widget-functions.php:59
+msgid "Round (6)"
+msgstr ""
+
+#: ../inc/widget-functions.php:60
+msgid "Left To Right (7)"
+msgstr ""
+
+#: ../inc/widget-functions.php:61
+msgid "Jump (8)"
+msgstr ""
+
+#: ../inc/widget-functions.php:62
+msgid "Fly (9)"
+msgstr ""
+
+#: ../inc/widget-functions.php:63
+msgid "Zoom In (10)"
+msgstr ""
+
+#: ../inc/widget-functions.php:64
+msgid "Hovered (11)"
+msgstr ""
+
+#: ../inc/widget-functions.php:65
+msgid "Wide Hover (12)"
+msgstr ""
+
+#: ../inc/widget-functions.php:66
+msgid "Top (14)"
+msgstr ""
+
+#: ../inc/widget-functions.php:67
+msgid "Right To Left (15)"
+msgstr ""
+
+#: ../inc/widget-functions.php:68
+msgid "Bottom (16)"
+msgstr ""
+
+#: ../inc/widget-functions.php:69
+msgid "Caption Left (17)"
+msgstr ""
+
+#: ../inc/widget-functions.php:70
+msgid "Caption Right (18)"
+msgstr ""
+
+#: ../inc/widget-functions.php:71
+msgid "Caption Left-2 (19)"
+msgstr ""
+
+#: ../inc/widget-functions.php:72
+msgid "Caption Center (20)"
+msgstr ""
+
+#: ../inc/widget-functions.php:121
+msgid "Image Url or Id:"
+msgstr ""
+
+#: ../inc/widget-functions.php:123 ../inc/widget-functions.php:146
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/widget-functions.php:144
+msgid "Url:"
+msgstr ""
+
+#: ../inc/widget-image.php:21
+msgid "Display Custom Images with CSS3 hover effects."
+msgstr ""
+
+#: ../inc/widget-image.php:31
+msgid "SG Images (sgwindow)"
+msgstr ""
+
+#: ../inc/widget-image.php:292
+msgid "Main options"
+msgstr ""
+
+#: ../inc/widget-image.php:294 ../inc/widget-items-category.php:309
+#: ../inc/widget-items-portfolio.php:300 ../inc/widget-items-products.php:311
+msgid "Image Size:"
+msgstr ""
+
+#: ../inc/widget-image.php:297 ../inc/widget-items-category.php:312
+#: ../inc/widget-items-portfolio.php:303 ../inc/widget-items-products.php:314
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../inc/widget-image.php:297 ../inc/widget-items-category.php:312
+#: ../inc/widget-items-portfolio.php:303 ../inc/widget-items-products.php:314
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/widget-image.php:297 ../inc/widget-items-category.php:312
+#: ../inc/widget-items-portfolio.php:303 ../inc/widget-items-products.php:314
+msgid "Large"
+msgstr ""
+
+#: ../inc/widget-image.php:297 ../inc/widget-items-category.php:312
+#: ../inc/widget-items-portfolio.php:303 ../inc/widget-items-products.php:314
+msgid "Full"
+msgstr ""
+
+#: ../inc/widget-image.php:310
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/widget-image.php:311 ../inc/widget-items-category.php:340
+#: ../inc/widget-items-portfolio.php:327
+msgid "Step Animation"
+msgstr ""
+
+#: ../inc/widget-image.php:312 ../inc/widget-items-category.php:336
+#: ../inc/widget-items-portfolio.php:328 ../inc/widget-items-products.php:338
+msgid "No Margins"
+msgstr ""
+
+#: ../inc/widget-image.php:318
+msgid "Main Title: "
+msgstr ""
+
+#: ../inc/widget-image.php:319
+msgid "Main Description: "
+msgstr ""
+
+#: ../inc/widget-image.php:328
+msgid "Press to edit Image "
+msgstr ""
+
+#: ../inc/widget-image.php:335
+msgid "Image "
+msgstr ""
+
+#: ../inc/widget-image.php:344 ../inc/widget-slider.php:624
+msgid "Image: "
+msgstr ""
+
+#: ../inc/widget-image.php:346
+msgid "Header: "
+msgstr ""
+
+#: ../inc/widget-image.php:348 ../inc/widget-items-category.php:334
+#: ../inc/widget-items-portfolio.php:325 ../inc/widget-items-products.php:336
+msgid "More options"
+msgstr ""
+
+#: ../inc/widget-image.php:350
+msgid "Text: "
+msgstr ""
+
+#: ../inc/widget-image.php:351 ../inc/widget-slider.php:628
+msgid "Link: "
+msgstr ""
+
+#: ../inc/widget-image.php:352 ../inc/widget-items-category.php:342
+#: ../inc/widget-items-portfolio.php:331
+msgid "Animate"
+msgstr ""
+
+#: ../inc/widget-image.php:353 ../inc/widget-items-category.php:343
+#: ../inc/widget-items-portfolio.php:332
+msgid "Once"
+msgstr ""
+
+#: ../inc/widget-image.php:354 ../inc/widget-items-category.php:341
+#: ../inc/widget-items-portfolio.php:330
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/widget-image.php:355
+msgid "Display Link"
+msgstr ""
+
+#: ../inc/widget-image.php:356
+msgid "Button caption: "
+msgstr ""
+
+#: ../inc/widget-image.php:367 ../inc/widget-items-category.php:293
+#: ../inc/widget-items-portfolio.php:284 ../inc/widget-items-products.php:296
+msgid "Columns:"
+msgstr ""
+
+#: ../inc/widget-image.php:370 ../inc/widget-items-category.php:297
+#: ../inc/widget-items-portfolio.php:288 ../inc/widget-items-products.php:299
+msgid "1"
+msgstr ""
+
+#: ../inc/widget-image.php:370 ../inc/widget-items-category.php:297
+#: ../inc/widget-items-portfolio.php:288 ../inc/widget-items-products.php:299
+msgid "2"
+msgstr ""
+
+#: ../inc/widget-image.php:370 ../inc/widget-items-category.php:297
+#: ../inc/widget-items-portfolio.php:288 ../inc/widget-items-products.php:299
+msgid "3"
+msgstr ""
+
+#: ../inc/widget-image.php:370 ../inc/widget-items-category.php:297
+#: ../inc/widget-items-portfolio.php:288 ../inc/widget-items-products.php:299
+msgid "4"
+msgstr ""
+
+#: ../inc/widget-image.php:381
+msgid "Number of images (press Apply): "
+msgstr ""
+
+#: ../inc/widget-image.php:392
+msgid "Image"
+msgstr ""
+
+#: ../inc/widget-image.php:400 ../inc/widget-image.php:433
+msgid "Title"
+msgstr ""
+
+#: ../inc/widget-image.php:416
+msgid "Description..."
+msgstr ""
+
+#: ../inc/widget-image.php:417
+msgid "Title..."
+msgstr ""
+
+#: ../inc/widget-items-category.php:21
+msgid "Display Items from the Category or latest posts."
+msgstr ""
+
+#: ../inc/widget-items-category.php:31
+msgid "SG Items from Category (SG Window)"
+msgstr ""
+
+#: ../inc/widget-items-category.php:135 ../inc/widget-items-portfolio.php:125
+msgid "Open Archive"
+msgstr ""
+
+#: ../inc/widget-items-category.php:278 ../inc/widget-items-portfolio.php:269
+#: ../inc/widget-items-products.php:281 ../inc/widget-slider.php:563
+msgid "Category:"
+msgstr ""
+
+#: ../inc/widget-items-category.php:280 ../inc/widget-items-portfolio.php:271
+#: ../inc/widget-items-products.php:283 ../inc/widget-slider.php:565
+#: ../inc/widget-slider.php:592
+msgid "Any"
+msgstr ""
+
+#: ../inc/widget-items-category.php:337 ../inc/widget-items-portfolio.php:333
+msgid "Display Button"
+msgstr ""
+
+#: ../inc/widget-items-category.php:338 ../inc/widget-items-portfolio.php:335
+#: ../inc/widget-items-products.php:339
+msgid "Display description block"
+msgstr ""
+
+#: ../inc/widget-items-portfolio.php:20
+msgid "Display Items from Portfolio."
+msgstr ""
+
+#: ../inc/widget-items-portfolio.php:30
+msgid "SG Items from Portfolio (SG Window)"
+msgstr ""
+
+#: ../inc/widget-items-products.php:19
+msgid "Display Shop Items."
+msgstr ""
+
+#: ../inc/widget-items-products.php:29
+msgid "SG Shop Items (SG Window)"
+msgstr ""
+
+#: ../inc/widget-items-products.php:136
+msgid "All Products"
+msgstr ""
+
+#: ../inc/widget-items-products.php:356
+msgid "Recent Products"
+msgstr ""
+
+#: ../inc/widget-page.php:21
+msgid "Display one page with sidebars"
+msgstr ""
+
+#: ../inc/widget-page.php:31
+msgid "SG Page (SG Window)"
+msgstr ""
+
+#: ../inc/widget-page.php:200
+msgid "No Title"
+msgstr ""
+
+#: ../inc/widget-page.php:201
+msgid "Text align center"
+msgstr ""
+
+#: ../inc/widget-page.php:202
+msgid "Set Background Opacity to 0"
+msgstr ""
+
+#: ../inc/widget-page.php:206
+msgid "Page:"
+msgstr ""
+
+#: ../inc/widget-page.php:219
+msgid "Layout:"
+msgstr ""
+
+#: ../inc/widget-page.php:222 ../page-templates/right-sidebar.php:9
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/widget-page.php:223 ../page-templates/left-sidebar.php:9
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/widget-page.php:224 ../page-templates/two-sidebars.php:9
+msgid "Two Sidebars"
+msgstr ""
+
+#: ../inc/widget-page.php:225
+msgid "No Sidebars"
+msgstr ""
+
+#: ../inc/widget-project-naigation.php:20
+msgid "Display portfolio navigation on jetpack portfolio category/index page"
+msgstr ""
+
+#: ../inc/widget-project-naigation.php:29
+msgid "SG Portfolio Project Nav (SG Window)"
+msgstr ""
+
+#: ../inc/widget-project-naigation.php:150
+msgid "One page navigation (portfolio index)"
+msgstr ""
+
+#: ../inc/widget-sidebar-navigation.php:20
+msgid "Display one page sidebar navigation"
+msgstr ""
+
+#: ../inc/widget-sidebar-navigation.php:29
+msgid "SG One Page Nav (SG Window)"
+msgstr ""
+
+#: ../inc/widget-sidebar.php:21
+msgid ""
+"Allows to build a page layout by adding new sidebars with custom number of "
+"columns and column width."
+msgstr ""
+
+#: ../inc/widget-sidebar.php:31
+msgid "SG Layout Builder"
+msgstr ""
+
+#: ../inc/widget-sidebar.php:84 ../inc/widget-sidebar.php:220
+#: ../inc/widget-sidebar.php:383
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/widget-sidebar.php:124
+msgid "Place for your Content, Sidebar"
+msgstr ""
+
+#: ../inc/widget-sidebar.php:204
+msgid "Number of sidebars (number in range [1:4]) (Press Apply): "
+msgstr ""
+
+#: ../inc/widget-sidebar.php:211
+msgid "Register New Sidebars"
+msgstr ""
+
+#: ../inc/widget-sidebar.php:236
+msgid "Edit Sidebar "
+msgstr ""
+
+#: ../inc/widget-sidebar.php:238
+msgid "Name of sidebar (You will see this name after refreshing Customizer): "
+msgstr ""
+
+#: ../inc/widget-sidebar.php:239
+msgid "Width of sidebar (%): "
+msgstr ""
+
+#: ../inc/widget-slider.php:21
+msgid ""
+"Responsive slider for displaying images, posts from category, popular posts, "
+"portfolio."
+msgstr ""
+
+#: ../inc/widget-slider.php:31
+msgid "SG Slider"
+msgstr ""
+
+#: ../inc/widget-slider.php:277 ../inc/widget-slider.php:616
+msgid "Slide Title"
+msgstr ""
+
+#: ../inc/widget-slider.php:279 ../inc/widget-slider.php:618
+msgid "description"
+msgstr ""
+
+#: ../inc/widget-slider.php:512
+msgid "Number of Slides"
+msgstr ""
+
+#: ../inc/widget-slider.php:515
+msgid ""
+"What you wish to display? (<span style=\"color:red;\">Press \"Apply\" button "
+"to see new fields</span>):"
+msgstr ""
+
+#: ../inc/widget-slider.php:517
+msgid "Custom Slides"
+msgstr ""
+
+#: ../inc/widget-slider.php:518
+msgid "Posts from the Category"
+msgstr ""
+
+#: ../inc/widget-slider.php:521
+msgid "Portfolio Projects"
+msgstr ""
+
+#: ../inc/widget-slider.php:524
+msgid "Posts from the Current Query ( from Blog )"
+msgstr ""
+
+#: ../inc/widget-slider.php:525
+msgid "Sticky Posts"
+msgstr ""
+
+#: ../inc/widget-slider.php:527
+msgid "Popular Posts (Jetpack)"
+msgstr ""
+
+#: ../inc/widget-slider.php:534
+msgid "Sort Order:"
+msgstr ""
+
+#: ../inc/widget-slider.php:536
+msgid "Date"
+msgstr ""
+
+#: ../inc/widget-slider.php:537
+msgid "Random"
+msgstr ""
+
+#: ../inc/widget-slider.php:538
+msgid "Number of Comments"
+msgstr ""
+
+#: ../inc/widget-slider.php:547
+msgid "Display Category"
+msgstr ""
+
+#: ../inc/widget-slider.php:552
+msgid "Display Popular Pages"
+msgstr ""
+
+#: ../inc/widget-slider.php:590
+msgid "Project:"
+msgstr ""
+
+#: ../inc/widget-slider.php:622
+msgid "Edit Image "
+msgstr ""
+
+#: ../inc/widget-slider.php:626
+msgid "Description: "
+msgstr ""
+
+#: ../inc/widget-slider.php:627
+msgid "Display Link? "
+msgstr ""
+
+#: ../inc/widget-slider.php:636
+msgid "Slider options"
+msgstr ""
+
+#: ../inc/widget-slider.php:638
+msgid "Movement Speed (ms): "
+msgstr ""
+
+#: ../inc/widget-slider.php:639
+msgid "Delay (ms): "
+msgstr ""
+
+#: ../inc/widget-slider.php:640
+msgid "Auto play slides"
+msgstr ""
+
+#: ../inc/widget-slider.php:641
+#, php-format
+msgid "Height of slides (number between 10-100, % of width): "
+msgstr ""
+
+#: ../inc/widget-slider.php:642
+msgid "Visible part of the next and previous slide ( number between 0-34, %): "
+msgstr ""
+
+#: ../inc/widget-slider.php:643
+msgid "Text color: "
+msgstr ""
+
+#: ../inc/widget-slider.php:644
+msgid "Display Image as background "
+msgstr ""
+
+#: ../inc/widget-tags-naigation.php:20
+msgid ""
+"Display portfolio tags navigation on both jetpack portfolio index and "
+"archive pages"
+msgstr ""
+
+#: ../inc/widget-tags-naigation.php:29
+msgid "SG Portfolio Tags Nav (SG Window)"
+msgstr ""
+
+#: ../inc/widget-tags-naigation.php:72
+msgid "All Tags"
+msgstr ""
+
+#: ../inc/widget-tags-naigation.php:87
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/widget-tags-naigation.php:139
+msgid "SG One page navigation (portfolio index)"
+msgstr ""
+
+#: ../page-templates/full-contact.php:9
+msgid "Contact Template"
+msgstr ""
+
+#: ../page-templates/full-width.php:9
+msgid "Full Width Template"
+msgstr ""
+
+#: ../page-templates/no-content-footer.php:9
+msgid "No Footer No Content"
+msgstr ""
+
+#: ../page-templates/no-content.php:9
+msgid "No Content "
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../taxonomy-jetpack-portfolio-tag.php:21
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../taxonomy-jetpack-portfolio-type.php:21
+#, php-format
+msgid "Project type: %s"
+msgstr ""
