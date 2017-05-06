@@ -22,7 +22,7 @@
 				 */
 				do_action( 'twentyfifteen_credits' );
 			?>
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'twentyfifteen' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'twentyfifteen' ), 'WordPress' ); ?></a>
+			<a href="<?php echo esc_url( __( 'http://fit.vimaru.edu.vn/', '' ) ); ?>"><?php printf( __( 'Copyright by%s', 'fifteen' ), 'Group 2' ); ?></a>
 		</div><!-- .site-info -->
 	</footer><!-- .site-footer -->
 
